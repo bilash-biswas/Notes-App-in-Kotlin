@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "452574234597",
+    "project_id": "com1example2firestoreinkotlin",
+    "storage_bucket": "com1example2firestoreinkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452574234597:android:31d6070b5727636d0cd10c",
+        "android_client_info": {
+          "package_name": "com.example.firestoreinkotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGPNUiwEG_w-RuNHNCNsTFr16WvLZ64U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452574234597:android:593ad1f757d83fe40cd10c",
+        "android_client_info": {
+          "package_name": "com.example.simplekotlinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhGPNUiwEG_w-RuNHNCNsTFr16WvLZ64U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
